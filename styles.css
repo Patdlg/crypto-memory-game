@@ -24,6 +24,12 @@ h2 {
   font-size: 60px;
 }
 
+h5{
+   text-align: center;
+  align-items: center;
+
+}
+
 .memory-game {
   box-sizing: border-box;
   width: 640px;
